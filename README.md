@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Usman Shoukat  
 **Senior Laravel Developer | SaaS Innovator | Scalable Systems Architect**
 
 💻 With over **5 years of hands-on experience**, I specialize in building and optimizing **complex Laravel applications**, **crypto wallet integrations**, and **high-traffic web platforms**.  
@@ -35,6 +35,6 @@
 ---
 
 ### 📫 Let’s Connect
-- 🌐 Portfolio: [yourwebsite.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourname]  
-- 🐙 GitHub: [github.com/yourusername]
+- 🌐 Portfolio: [pxha.com]  
+- 💼 LinkedIn: [linkedin.com/in/usmanshoukat001]  
+- 🐙 GitHub: [github.com/usmanshoukat01]
