@@ -46,8 +46,3 @@
 - 🌐 Portfolio: [pxha.com](https://pxha.com), [on4t.com](https://on4t.com), [nilaq.com](https://nilaq.com)  
 - 💼 LinkedIn: [linkedin.com/in/usmanshoukat001](https://linkedin.com/in/usmanshoukat001)  
 - 🐙 GitHub: [github.com/usmanshoukat01](https://github.com/usmanshoukat01)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanshoukat01&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanshoukat01&layout=compact&theme=radical)
