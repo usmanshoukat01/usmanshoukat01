@@ -35,6 +35,6 @@
 ---
 
 ### 📫 Let’s Connect
-- 🌐 Portfolio: [pxha.com]  
+- 🌐 Portfolio: [pxha.com , on4t.com , nilaq.com]  
 - 💼 LinkedIn: [linkedin.com/in/usmanshoukat001]  
 - 🐙 GitHub: [github.com/usmanshoukat01]
